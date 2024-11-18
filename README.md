@@ -61,7 +61,7 @@
 <a href="https://instagram.com/sandahiru_nethruwan" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandahiru_nethruwan" height="30" width="30" /></a>
 <a href="https://medium.com/@sandahiruperera" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sandahiruperera" height="30" width="30" /></a>
 <a href="https://discord.gg/888166498898685993" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="888166498898685993" height="30" width="30" /></a>
-<a href="sadahiruperera@gmail.com" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="Sandahiru Perera" height="30" width="30" /></a>
+<a href="mailto:sadahiruperera@gmail.com" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="Sandahiru Perera" height="30" width="30" /></a>
 </p>
 <p>
 
