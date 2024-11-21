@@ -1,7 +1,12 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Sandahiru Nethruwan</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sandahiru07&label=Profile%20views&color=0e75b6&style=flat" alt="Sandahiru07" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandahiru07" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sandahiru07.Sandahiru07" alt="Visitor Badge" />
+</div>
+
+
 
 <table align="center">
 <tr border="none">
@@ -75,4 +80,4 @@
 
 Credits: [Sandahiru07](https://github.com/Sandahiru07)
 
-Last Edited on: 18/11/2024
+Last Edited on: 22/11/2024
