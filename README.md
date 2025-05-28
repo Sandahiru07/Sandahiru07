@@ -73,11 +73,11 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 Sandahiru Nethruwan
+  &copy; 2025 Sandahiru Nethruwan
 </div>
 
 ---
 
 Credits: [Sandahiru07](https://github.com/Sandahiru07)
 
-Last Edited on: 22/11/2024
+Last Edited on: 22/11/2025
